@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+    <channel>
+        <language>en-US</language>
+        <copyright>Copyright 2022 High Tops Media &amp; Alanna Orgill, Zeyneb Henderson</copyright>
+        <title>Conscious Conversations A-Z</title>
+        <description><![CDATA[<p>Two best friends talk openly about topics ranging from all things A-Z, aimed at inspiring those who are navigating their path, simultaneously making them feel a little less alone.</p>
+]]></description>
+        <link>https://conscious-conversations-a-z.hightops.media//</link>
+		
+        <itunes:image href='https://conscious-conversations-a-z.hightops.media//assets/CoverArtSeason1.jpg'/>
+        
+		<itunes:category text='Society &amp; Culture'>
+            <itunes:category text='Personal Journals'/>
+        </itunes:category>
+		
+		<itunes:author>High Tops Media &amp; Alanna Orgill, Zeyneb Henderson</itunes:author>
+        <itunes:owner>
+            <itunes:name>This Strange World Podcast Administrator</itunes:name>
+            <itunes:email>admin@thisstrangeworldpodcast.com</itunes:email>
+        </itunes:owner>
+		
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+    </channel>
+</rss>
