@@ -2,19 +2,17 @@
 <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
     <channel>
         <language>en-US</language>
-        <copyright>Copyright 2022 High Tops Media &amp; Alanna Orgill, Zeyneb Henderson</copyright>
-        <title>Conscious Conversations A-Z</title>
-        <description><![CDATA[<p>Two best friends talk openly about topics ranging from all things A-Z, aimed at inspiring those who are navigating their path, simultaneously making them feel a little less alone.</p>
+        <copyright>Copyright 2022 High Tops Media &amp; Gavin Berger, et al</copyright>
+        <title>The Dark Archive</title>
+        <description><![CDATA[<p>From stories of unruly dictators and undercover agents, to eerie urban legends and the occasional super niche historical episode, this podcast explores how dark, creepy, and strange this world really is. Join our hosts every week as they crack into The Dark Archive.</p>
 ]]></description>
-        <link>https://conscious-conversations-a-z.hightops.media//</link>
+        <link>https://the-dark-archive.hightops.media//</link>
 		
-        <itunes:image href='https://conscious-conversations-a-z.hightops.media//assets/CoverArtSeason1.jpg'/>
+        <itunes:image href='https://the-dark-archive.hightops.media//assets/CoverArtSeason1.jpg'/>
         
-		<itunes:category text='Society &amp; Culture'>
-            <itunes:category text='Personal Journals'/>
-        </itunes:category>
+		<itunes:category text='Society &amp; Culture'/>
 		
-		<itunes:author>High Tops Media &amp; Alanna Orgill, Zeyneb Henderson</itunes:author>
+		<itunes:author>High Tops Media &amp; Gavin Berger, et al</itunes:author>
         <itunes:owner>
             <itunes:name>This Strange World Podcast Administrator</itunes:name>
             <itunes:email>admin@thisstrangeworldpodcast.com</itunes:email>
